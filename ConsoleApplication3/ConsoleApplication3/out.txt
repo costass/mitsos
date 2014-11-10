@@ -1,0 +1,15 @@
+hit a     :1                   00400040
+mis a     :1
+hit b     :5                   0040003C
+mis b     :2
+
+hit a     :3                   00400100
+mis a     :1
+hit b     :7                   004000FC
+mis b     :18
+
+hit a     :1                   00400368
+mis a     :1
+hit b     :5                   00400360
+mis b     :2
+
