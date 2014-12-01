@@ -1,0 +1,36 @@
+0 state :	epitixies:148401		apotixies:145753	
+1 state :	epitixies:344934		apotixies:197840	
+2 state :	epitixies:132753		apotixies:181055	
+3 state :	epitixies:207066		apotixies:226124	
+4 state :	epitixies:548772		apotixies:135100	
+5 state :	epitixies:332065		apotixies:0	
+6 state :	epitixies:331396		apotixies:682695	
+7 state :	epitixies:263311		apotixies:681729	
+8 state :	epitixies:0		apotixies:152409	
+9 state :	epitixies:394377		apotixies:228975	
+10 state :	epitixies:0		apotixies:0	
+11 state :	epitixies:66349		apotixies:265716	
+12 state :	epitixies:781688		apotixies:257551	
+13 state :	epitixies:314712		apotixies:16684	
+14 state :	epitixies:83052		apotixies:955243	
+15 state :	epitixies:266599		apotixies:154672	
+16 state :	epitixies:394373		apotixies:148400	
+17 state :	epitixies:88256		apotixies:115968	
+18 state :	epitixies:199312		apotixies:502817	
+19 state :	epitixies:737974		apotixies:787967	
+20 state :	epitixies:74580		apotixies:17309	
+21 state :	epitixies:0		apotixies:0	
+22 state :	epitixies:0		apotixies:356544	
+23 state :	epitixies:157960		apotixies:356566	
+24 state :	epitixies:204224		apotixies:390364	
+25 state :	epitixies:1131564		apotixies:473154	
+26 state :	epitixies:0		apotixies:91889	
+27 state :	epitixies:448177		apotixies:90828	
+28 state :	epitixies:823030		apotixies:337038	
+29 state :	epitixies:224293		apotixies:75205	
+30 state :	epitixies:216446		apotixies:204825	
+31 state :	epitixies:511196		apotixies:266599	
+11000
+ sinolikes epitixies9426860/17923879	
+
+ sinolikes apotixies8497019/17923879	

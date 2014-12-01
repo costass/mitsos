@@ -1,0 +1,18 @@
+
+ APOTELESMATA GIA 1BIT:
+ epitixies a: 70326 
+apotixies a: 37086 
+epitixies b: 84687 
+apotixies b: 37086 
+
+ APOTELESMATA GIA CORELATE:
+ epitixies a: 7528 
+apotixies a: 5044 
+epitixies b: 24682 
+apotixies b: 42453 
+
+ APOTELESMATA GIA TOURNAMEN:
+ epitixies 1bit: 213098 
+apotixies 1bit: 34231 
+epitixies corilate: 12033 
+apotixies corilate: 2508 
